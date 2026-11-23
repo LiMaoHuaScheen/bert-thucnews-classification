@@ -1,0 +1,10 @@
+data/
+hf_cache/
+output/
+output_text/
+*.pt
+*.bin
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
